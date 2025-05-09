@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/app/ui/home.module.css"],"sourcesContent":[".shape {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background: linear-gradient(45deg, #0070F3 0%, #00C6FF 100%);\n  opacity: 0.1;\n  z-index: -1;\n}\n"],"names":[],"mappings":"AAAA"}},
+    {"offset": {"line": 11, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
